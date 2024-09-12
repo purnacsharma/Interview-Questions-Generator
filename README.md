@@ -19,11 +19,15 @@ conda activate interview
 3. Install the requirements
 ```
 pip install -r requirements.txt
+<<<<<<< HEAD
 
 ```
-### GitHub Commands
+=======
+```
 
-```bash
+>>>>>>> 4cd87f24b33878dceae8503050abc07fb1345a9d
+### GitHub Commands
+```
 1. git clone https://github.com/
 
 2. git add .
@@ -32,6 +36,7 @@ pip install -r requirements.txt
 
 4. git push origin main
 ```
+<<<<<<< HEAD
 
 
 
@@ -46,3 +51,5 @@ pip install -r requirements.txt
 
 8. git push origin main klo
 ```
+=======
+>>>>>>> 4cd87f24b33878dceae8503050abc07fb1345a9d
