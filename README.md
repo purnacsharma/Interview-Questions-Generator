@@ -6,7 +6,7 @@
 
 1. Create an Environment
 ```bash
-conda create -n interview python-3.12.0
+conda create -n interview python-3.12.0 -y
 
 conda activate interview
 ```
@@ -20,7 +20,7 @@ conda activate interview
 ```
 pip install -r requirements.txt
 
-
+```
 ### GitHub Commands
 
 ```bash
@@ -31,4 +31,18 @@ pip install -r requirements.txt
 3. git commit -m "readme updated"
 
 4. git push origin main
+```
+
+
+
+### GitHub Commands
+
+```bash
+5 git clone https://github.com/
+
+6. git add .
+
+7. git commit -m "readme updated" huuy
+
+8. git push origin main klo
 ```
