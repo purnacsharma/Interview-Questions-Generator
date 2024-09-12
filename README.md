@@ -19,12 +19,10 @@ conda activate interview
 3. Install the requirements
 ```
 pip install -r requirements.txt
-
+```
 
 ### GitHub Commands
-
-
-```bash
+```
 1. git clone https://github.com/
 
 2. git add .
